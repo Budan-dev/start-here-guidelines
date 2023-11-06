@@ -363,7 +363,7 @@
 
 - [@Arpan Chowdhury](https://github.com/apu52)
 
-- [@budan](https://github.com/apu52)
+- [@budan](https://github.com/Budan-dev)
 
 - [@Ajmccraw](https://github.com/ajmccraw)
 
